@@ -1,0 +1,5 @@
+E:\Code\Tetris\Tetris.exe
+E:\Code\Tetris\Tetris.dll
+E:\Code\Tetris\Tetris.deps.json
+E:\Code\Tetris\Tetris.runtimeconfig.json
+E:\Code\Tetris\Tetris.pdb
