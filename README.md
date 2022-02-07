@@ -21,11 +21,18 @@ Le but du jeu et de créer des lignes horizontales complètes à l'aide de blocs
 Pour contrôler les blocs, voici les commandes : 
 
 **[Z]** : Rotation de bloc anti-horaire
+
 **[↑]** : Rotation de bloc horaire
+
 **[↓]** : Descendre un bloc d'une case
+
 **[→]** : Déplacer un bloc vers la droite
+
 **[←]** : Déplacer un bloc vers la gauche
+
 **[C]** : Sauvegarder un bloc
+
 **[Espace]** : Poser immédiatement le bloc en dessous de lui
+
 
 S'il vous arrive de perdre, vous n'aurez qu'à cliquer sur le bouton "Play Again" pour relancer une partie !
